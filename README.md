@@ -73,7 +73,7 @@ The dataset and code are shared under [CC BY-SA 4.0](https://creativecommons.org
 
 ---
 
-For dataset access or academic use, visit the [Hugging Face Dataset Page](https://huggingface.co/datasets/mariamessamelsayed/AAFAQ_Dataset).
+For dataset access or academic use, visit the [Hugging Face Dataset Page](https://github.com/Mohanad-Deif/AAFAQ-Dataset).
 
 GitHub Repo (for scripts): https://github.com/Mariam-Essam/Arabic-Question-Classifications-with-AAFAQ
 
