@@ -71,7 +71,7 @@ Dataset and methodology described in the paper:
 
 ---
 
-For dataset access or academic use, visit the [Hugging Face Dataset Page](https://github.com/Mohanad-Deif/AAFAQ-Dataset).
+For dataset access or academic use, visit the http://datadryad.org/stash/share/IGdeANoM7cUWlMr-iUhGQMvuJgWLXicCBvXutXVUnas 
 
 GitHub Repo (for scripts): https://github.com/Mariam-Essam/Arabic-Question-Classifications-with-AAFAQ
 
