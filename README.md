@@ -68,8 +68,6 @@ This will generate bar plots and a correlation matrix for all major features.
 Dataset and methodology described in the paper:
 > *A Benchmark Arabic Dataset for Question Classification using AAFAQ Framework* by Mariam Essam et al., 2025.
 
-## 📄 License
-The dataset and code are shared under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license for non-commercial use.
 
 ---
 
